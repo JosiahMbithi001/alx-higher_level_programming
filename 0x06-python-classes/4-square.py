@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-square.py
-# Brennan D Baraban <375@holbertonschool.com>
+#Josiah Mbithi - Alx
 """Define a class Square."""
 
 
