@@ -5,6 +5,9 @@ of HTTP headers. In the process, I learned about how URL's work, domain names,
 the many different HTTP request/repsonse header fields and status codes, and
 how to utilize cookies.
 
+Resources: https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
+		   https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
 

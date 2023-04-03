@@ -5,6 +5,9 @@ libraries to send and receive HTTP messages to URL's. I practiced sending `GET`
 and `POST` requests, fetching JSON resources, and interacting with API's (the
 Star Wars API, GitHub API, and Twitter API).
 
+Here are Some Resources on urllib:
+https://docs.python.org/3/howto/urllib2.html
+https://realpython.com/urllib-request/
 ## Tasks :page_with_curl:
 
 * **0. What's my status? #0**
